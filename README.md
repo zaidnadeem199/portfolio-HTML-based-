@@ -1,7 +1,5 @@
 # Personal Portfolio (html based project)
 This is a personal portfolio website created using HTML. 
-It showcases the skills, projects, and background of Muhammad Zaid, an aspiring full-stack web developer 
-with a bachelor's degree in Artificial Intelligence.
 
 # About the project:
 A basic HTML website project.
